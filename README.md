@@ -1,7 +1,9 @@
-### Hi there 👋
+### ✨ I am Abdurrahim Ahmadov| Junior web developer ✨ 
 
 
-✨ Abdurrahim Ahmadov ✨ 
+
+
+              Hi there 👋
 
 - 🌱 I’m currently learning express.js (Node.Js) and Vue.js
 - 📫 How to reach me: abdurrahim.ahmadow@gmail.com
