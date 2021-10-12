@@ -12,7 +12,7 @@
 
 
 
-![Abdurrahim](https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg)
+![pngegg (7)](https://user-images.githubusercontent.com/42205442/137000706-d0a9b915-1a3e-4de7-9dcd-9fba19998fa4.png)
 
 
 ![Abdurrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebdurrehm&theme=blue-green&show_icons=true)
