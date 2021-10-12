@@ -3,7 +3,7 @@
 
 
 
-              Hi there 👋
+              Hi there 👋 Welcome to my github page :)
 
 - 🌱 I’m currently learning express.js (Node.Js) and Vue.js
 - 📫 How to reach me: abdurrahim.ahmadow@gmail.com
