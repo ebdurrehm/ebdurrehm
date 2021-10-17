@@ -15,6 +15,6 @@
 ![pngegg (9)](https://user-images.githubusercontent.com/42205442/137001156-aaf42bbb-713d-4f90-bf2c-146f0eb1cecc.png)
 
 
-![Abdurrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebdurrehm&theme=blue-green&show_icons=true)
+
 
 
