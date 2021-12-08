@@ -18,5 +18,5 @@
 ![Abdurrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebdurrehm&theme=blue-green&show_icons=true)
 
 
-
+<a href="https://app.daily.dev/ebdurrehm"><img src="https://api.daily.dev/devcards/88a8e3dcf801413db6b16bd6dccd9268.png?r=yie" width="400" alt="Abdulrrahim Ahmadov's Dev Card"/></a>
 
