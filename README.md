@@ -17,8 +17,7 @@
 ![pngegg (9)](https://user-images.githubusercontent.com/42205442/137001156-aaf42bbb-713d-4f90-bf2c-146f0eb1cecc.png)
 
 ![Abdurrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebdurrehm&theme=blue-green&show_icons=true)</div>
-<a href="https://app.daily.dev/ebdurrehm"><img src="https://api.daily.dev/devcards/88a8e3dcf801413db6b16bd6dccd9268.png?r=yie" width="400" alt="Abdulrrahim Ahmadov's Dev Card"/></a>
-
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ebdurrehm/ebdurrehm/blob/master/devcard.svg" width="400" alt="Abdurrahim Ahmadov's Dev Card"/></a>
 
 </div>
 
