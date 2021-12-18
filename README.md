@@ -6,7 +6,7 @@
   <div style="display:flex; flex-direction: row; justify-content: space-between;">
   <div>Hi there 👋 Welcome to my github page :)
 
-- ### 🌱I’m currently learning express.js, Node.Js (Advanced) and TypeScript
+- ### 🌱I’m currently learning Node.Js (Advanced) and TypeScript
 -  📫 How to reach me: 
   info@ahmadow.tk
 - ### 🧑‍💻 My skills 🧑‍💻
