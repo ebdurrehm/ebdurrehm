@@ -85,7 +85,7 @@
   <img src="https://github.com/ebdurrehm/ebdurrehm/blob/main/devcard.svg" width="400" alt="Abdurrahim Ahmadov's Dev Card"/>
   </div>
 
-</div>
+
 
 
 
