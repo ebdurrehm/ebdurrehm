@@ -4,6 +4,7 @@
 - ✍️ I like writing code 
 - 🌱I’m currently learning Node.Js (Advanced) ,TypeScript
 - 🕸️ and Iworking on web development and learning new tools and technologies
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ebdurrehm)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ebdurrehm)
 
