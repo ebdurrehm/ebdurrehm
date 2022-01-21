@@ -19,7 +19,7 @@
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MonogDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![JEST](https://img.shields.io/badge/-JEST-orange?style=for-the-badge&logo=appveyor)
+![JEST](https://img.shields.io/badge/-JEST-orange?style=for-the-badge&logo=jest)
 
 
 <details>
