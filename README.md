@@ -7,18 +7,11 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ebdurrehm)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ebdurrehm)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@ahmadow.tk)
-
-
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
 
 &nbsp;
 ## 💻 Technologies I Work With
-
-
-
-
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -89,21 +82,9 @@
 
 
 
-### ✨ I am Abdurrahim Ahmadov| Junior web developer ✨ 
 
 
-
-
-  <p>
-  <div>Hi there 👋 Welcome to my github page :)
-
-- ### 🌱I’m currently learning Node.Js (Advanced) and TypeScript
--  📫 How to reach me: 
-  info@ahmadow.tk
-- ### 🧑‍💻 My skills 🧑‍💻
-- ![java](https://user-images.githubusercontent.com/42205442/136999238-7d5df575-fae0-4593-92b7-00ddf02a92ea.png) ![pngegg](https://user-images.githubusercontent.com/42205442/136997771-be550478-eb9e-4525-bc12-c23d190cfa17.png) ![pngegg (5)](https://user-images.githubusercontent.com/42205442/136999279-01a43efd-7f32-4968-8070-cd6098a3e60c.png) ![pngegg (4)](https://user-images.githubusercontent.com/42205442/136999315-46a77323-5b0f-447d-9a8d-cfb384706786.png) ![pngegg (3)](https://user-images.githubusercontent.com/42205442/136999348-afd6b6b1-1632-4208-9b91-474fb1e20d42.png) ![pngegg (2)](https://user-images.githubusercontent.com/42205442/136999361-526e7c65-dd51-4cab-b870-04e0dc2155f4.png) ![pngegg (1)](https://user-images.githubusercontent.com/42205442/136999383-e990aeba-6c64-4185-b4c6-c97c06598f36.png)
-
-     <img style="float:left" src="https://user-images.githubusercontent.com/42205442/137001156-aaf42bbb-713d-4f90-bf2c-146f0eb1cecc.png" width="400" height="200" alt="Abdurrahim Ahmadov's Dev Card"/>
+ <img style="float:left" src="https://user-images.githubusercontent.com/42205442/137001156-aaf42bbb-713d-4f90-bf2c-146f0eb1cecc.png" width="400" height="200" alt="Abdurrahim Ahmadov's Dev Card"/>
 
 
 ![pngegg (9)](https://user-images.githubusercontent.com/42205442/137001156-aaf42bbb-713d-4f90-bf2c-146f0eb1cecc.png)
