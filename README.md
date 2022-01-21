@@ -1,7 +1,7 @@
 # Hi there, I am Abdurrahim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px">
 
 - 🎂 I am 23 years old
-- ✍️ I like writing code 
+- ✍️ I am Node.js backend developer
 - 🌱I’m currently learning Node.Js (Advanced) ,TypeScript
 - 🕸️ and working on web development and learning new tools and technologies
 
