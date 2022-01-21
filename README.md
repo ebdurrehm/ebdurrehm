@@ -79,7 +79,7 @@
 
 ---
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ebdurrehm&theme=blue-green&show_icons=true" width="700" alt="Abdurrahim's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ebdurrehm&theme=blue-green&show_icons=true" width="800" height="200" alt="Abdurrahim's GitHub stats"/>
   </div>
 <div align="center">
   <img src="https://github.com/ebdurrehm/ebdurrehm/blob/main/devcard.svg" width="400" alt="Abdurrahim Ahmadov's Dev Card"/>
