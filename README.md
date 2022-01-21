@@ -79,7 +79,8 @@
 
 ---
 
-![Abdurrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebdurrehm&theme=blue-green&show_icons=true)</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ebdurrehm&theme=blue-green&show_icons=true" width="400" alt="Abdurrahim's GitHub stats"/></div>
 
 ---
 <div align="center">
