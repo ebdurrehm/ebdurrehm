@@ -78,10 +78,11 @@
 ![Codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)
 
 ---
-
+<div align="center">
 ![Abdurrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebdurrehm&theme=blue-green&show_icons=true)</div>
 
   <img src="https://github.com/ebdurrehm/ebdurrehm/blob/main/devcard.svg" width="400" alt="Abdurrahim Ahmadov's Dev Card"/>
+  </div>
 
 </div>
 
