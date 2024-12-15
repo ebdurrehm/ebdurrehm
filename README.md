@@ -1,9 +1,10 @@
 # Hi there, I am Abdurrahim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px">
 
-- 🎂 I am 24 years old
-- ✍️ I am a Node.js backend developer
-- 🌱I’m currently learning Node.Js (Advanced) ,TypeScript and Electron,NestJS
-- 🕸️ and working on web development and learning new tools and technologies
+🎂 I'm 26 years old  
+- ✍️ I'm a Node.js backend developer with a focus on building scalable applications.  
+- 🌱 Currently learning Machine Learning and Deep Learning, with a passion for integrating AI into real-world applications.   
+- 🔧 When I'm not coding, you can find me refining my software engineering skills, working on AI-based solutions, or experimenting with new technologies.  
+- 📚 Currently exploring ways to bring machine learning and AI into production and understanding the full potential of data science.  
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ebdurrehm)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ebdurrehm)
